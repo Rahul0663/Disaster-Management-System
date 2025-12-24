@@ -1,0 +1,51 @@
+City,Resource_ID,Resource_Type,Quantity,Availability,Location
+Chandigarh,CHA_AMBULANCE_895,Ambulance,8,Yes,Chandigarh Central Depot 4
+Chandigarh,CHA_RESCUE_VAN_515,Rescue Van,19,Yes,Chandigarh Central Depot 5
+Chandigarh,CHA_FIRST_AID_KITS_545,First Aid Kits,76,No,Chandigarh Central Depot 1
+Chandigarh,CHA_FOOD_PACKETS_270,Food Packets,64,No,Chandigarh Central Depot 2
+Chandigarh,CHA_BLANKETS_489,Blankets,18,Yes,Chandigarh Central Depot 2
+Chandigarh,CHA_WATER_BOTTLES_719,Water Bottles,27,Yes,Chandigarh Central Depot 1
+Chandigarh,CHA_OXYGEN_CYLINDERS_253,Oxygen Cylinders,94,Yes,Chandigarh Central Depot 4
+Chandigarh,CHA_DRONE_UNIT_228,Drone Unit,31,No,Chandigarh Central Depot 5
+Chandigarh,CHA_WATER_TANKER_789,Water Tanker,77,Yes,Chandigarh Central Depot 3
+Chandigarh,CHA_HELICOPTER_287,Helicopter,86,Yes,Chandigarh Central Depot 1
+Ludhiana,LUD_AMBULANCE_264,Ambulance,6,Yes,Ludhiana Central Depot 3
+Ludhiana,LUD_RESCUE_VAN_376,Rescue Van,54,Yes,Ludhiana Central Depot 2
+Ludhiana,LUD_FIRST_AID_KITS_618,First Aid Kits,23,No,Ludhiana Central Depot 4
+Ludhiana,LUD_FOOD_PACKETS_810,Food Packets,14,Yes,Ludhiana Central Depot 1
+Ludhiana,LUD_BLANKETS_164,Blankets,90,Yes,Ludhiana Central Depot 1
+Ludhiana,LUD_WATER_BOTTLES_775,Water Bottles,30,Yes,Ludhiana Central Depot 2
+Ludhiana,LUD_OXYGEN_CYLINDERS_911,Oxygen Cylinders,68,No,Ludhiana Central Depot 4
+Ludhiana,LUD_DRONE_UNIT_562,Drone Unit,86,Yes,Ludhiana Central Depot 1
+Ludhiana,LUD_WATER_TANKER_535,Water Tanker,72,No,Ludhiana Central Depot 4
+Ludhiana,LUD_HELICOPTER_898,Helicopter,95,Yes,Ludhiana Central Depot 1
+Amritsar,AMR_AMBULANCE_318,Ambulance,28,No,Amritsar Central Depot 3
+Amritsar,AMR_RESCUE_VAN_150,Rescue Van,63,Yes,Amritsar Central Depot 3
+Amritsar,AMR_FIRST_AID_KITS_299,First Aid Kits,36,Yes,Amritsar Central Depot 2
+Amritsar,AMR_FOOD_PACKETS_206,Food Packets,96,No,Amritsar Central Depot 3
+Amritsar,AMR_BLANKETS_213,Blankets,21,Yes,Amritsar Central Depot 1
+Amritsar,AMR_WATER_BOTTLES_387,Water Bottles,73,No,Amritsar Central Depot 4
+Amritsar,AMR_OXYGEN_CYLINDERS_692,Oxygen Cylinders,24,No,Amritsar Central Depot 2
+Amritsar,AMR_DRONE_UNIT_906,Drone Unit,27,Yes,Amritsar Central Depot 1
+Amritsar,AMR_WATER_TANKER_947,Water Tanker,48,Yes,Amritsar Central Depot 3
+Amritsar,AMR_HELICOPTER_890,Helicopter,94,Yes,Amritsar Central Depot 2
+Patiala,PAT_AMBULANCE_111,Ambulance,58,No,Patiala Central Depot 1
+Patiala,PAT_RESCUE_VAN_810,Rescue Van,49,Yes,Patiala Central Depot 2
+Patiala,PAT_FIRST_AID_KITS_272,First Aid Kits,38,Yes,Patiala Central Depot 3
+Patiala,PAT_FOOD_PACKETS_295,Food Packets,28,No,Patiala Central Depot 1
+Patiala,PAT_BLANKETS_143,Blankets,24,Yes,Patiala Central Depot 2
+Patiala,PAT_WATER_BOTTLES_437,Water Bottles,68,No,Patiala Central Depot 4
+Patiala,PAT_OXYGEN_CYLINDERS_318,Oxygen Cylinders,64,Yes,Patiala Central Depot 3
+Patiala,PAT_DRONE_UNIT_321,Drone Unit,25,Yes,Patiala Central Depot 1
+Patiala,PAT_WATER_TANKER_918,Water Tanker,8,No,Patiala Central Depot 5
+Patiala,PAT_HELICOPTER_975,Helicopter,14,Yes,Patiala Central Depot 1
+Mohali,MOH_AMBULANCE_269,Ambulance,75,No,Mohali Central Depot 2
+Mohali,MOH_RESCUE_VAN_798,Rescue Van,14,Yes,Mohali Central Depot 2
+Mohali,MOH_FIRST_AID_KITS_828,First Aid Kits,30,No,Mohali Central Depot 2
+Mohali,MOH_FOOD_PACKETS_581,Food Packets,91,No,Mohali Central Depot 4
+Mohali,MOH_BLANKETS_679,Blankets,100,No,Mohali Central Depot 2
+Mohali,MOH_WATER_BOTTLES_103,Water Bottles,90,No,Mohali Central Depot 2
+Mohali,MOH_OXYGEN_CYLINDERS_329,Oxygen Cylinders,52,Yes,Mohali Central Depot 1
+Mohali,MOH_DRONE_UNIT_423,Drone Unit,97,Yes,Mohali Central Depot 5
+Mohali,MOH_WATER_TANKER_921,Water Tanker,9,Yes,Mohali Central Depot 5
+Mohali,MOH_HELICOPTER_448,Helicopter,95,Yes,Mohali Central Depot 1
